@@ -1,4 +1,4 @@
-# 🧠 Task Manager in C
+# 🧠 Task Manager
 
 A simple **command-line Task Manager** built in C using low-level Unix/Linux system calls. This project allows users to monitor and manage system processes directly from the terminal.
 
